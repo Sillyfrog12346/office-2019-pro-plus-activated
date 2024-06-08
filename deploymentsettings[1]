@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no">
+
+    <link rel="preconnect" href="//spoprod-a.akamaihd.net" crossorigin />
+    <link rel="preconnect" href="//res-h3.public.cdn.office.net/aacux/website/uxbuilds/" crossorigin />
+    <link rel="dns-prefetch" href="//spoprod-a.akamaihd.net" />
+    <link rel="dns-prefetch" href="//res-h3.public.cdn.office.net/aacux/website/uxbuilds/" />
+    <link rel="dns-prefetch" href="//res-h3.public.cdn.office.net/aacux/website/uxbuilds/24.0603.28827888/build/webpack.assets.json" />
+
+    <script nonce="P4rUIQmxKo7HhYd5U3PoxMPnrkjfOhZlKIvny7hvmj4=" type="text/javascript" src="//res-h3.public.cdn.office.net/aacux/website/uxbuilds/24.0603.28827888/locresources/resources.js"></script>
+    <script nonce="P4rUIQmxKo7HhYd5U3PoxMPnrkjfOhZlKIvny7hvmj4=">
+        // ONLY USE GET FROM THE VIEWBAG HERE IF USING STRING FOR JAVASCRIPT
+        //Need to JS encode these strings used in Script blocks -> See helper function JSEncodeUntrustedString
+        var configuration = {"unauthAriaToken":"e7a366b101ac48348bda89a5f0cde87f-3dfe89cf-d5d7-4ffc-9fc1-7f15646185e2-7226","showDeploymentPlanRulesDeviceHardware":false,"showDeploymentPlanRulesAppCategoriesToIgnore":false,"showDeploymentPlanTargetReleaseAdoptionPanel":"false","unAuthConfigImportPavoUri":"/intents/v1.0/DeploymentSettings/ImportConfiguration","unAuthConfigExportPavoUri":"/intents/v1.0/DeploymentSettings/GetConfiguration","showDevicesSummaryFlyout":"false","showAppSetting":"true","showAppSettingFilterDropDown":"false","enableMacros":true,"downloadODTfwLink":"https://go.microsoft.com/fwlink/?LinkId=691958","learnMoreAboutDeploymentLink":"https://go.microsoft.com/fwlink/?linkid=854077","authGetDeploymentConfigurationsPavoUri":"/intents/v1.0/DeploymentConfiguration/GetConfigurations","authGetDeploymentConfigurationPavoUri":"/intents/v1.0/DeploymentConfiguration/GetConfiguration","authCreateDeploymentConfigurationPavoUri":"/intents/v1.0/DeploymentConfiguration/CreateConfigurations","authUpdateDeploymentConfigurationPavoUri":"/intents/v1.0/DeploymentConfiguration/UpdateConfiguration","authDeleteDeploymentConfigurationPavoUri":"/intents/v1.0/DeploymentConfiguration/DeleteConfiguration","authExportConfigurationPavoUri":"/intents/v1.0/AuthDeploymentSettings/ExportConfiguration","authImportConfigurationPavoUri":"/intents/v1.0/AuthDeploymentSettings/ImportConfiguration","authGetFilePavoUri":"/intents/v1.0/AuthDeploymentSettings/GetStandardConfiguration","showOnboarding":false,"enableHealthMacros":true,"proofingToolsEnabled":true,"enableOfficeMacroPilotRecommendation":true,"enablePilotSignoffMacros":true,"maxDeploymentPlans":20,"enableWindowsNRTDeploymentStatus":true,"enableNRTDeviceEnrollment":true,"requireCheckOnboarding":true,"enableOfficeMacroDeviceExport":true,"showWestCentralUsForOnboardingWorkspace":false,"enableNonCompanyAndNonClientAdminCheck":true,"showWindowsAndOfficeBuild":false,"enableDataUnavailablePage":true,"showMetricCardFooter":true,"useLocalIcons":false,"enableDCRDeviceEnrollment":false,"currentInventoryVersion":10017060,"enableRegisterServicePrincipal":true,"enableUpdateSccmEndpoint":true,"showEnvironmentChart":false,"fluxResource":"https://config.office.com/","aadAuthority":"https://login.microsoftonline.com/","enableOfficeMacroGlobalAssetsView":false,"enableOfficeSettingsOcps":true,"enableOfficeSettingsAccessibility":false,"showAppProvisioningToggle":true,"enableCompanyAdminToAddRemoveUsers":true,"microsoftPrivacyLink":"https://go.microsoft.com/fwlink/?LinkId=248681","enableDeploymentLifecycle":false,"officeSettingsPrivatePreviewTermsLink":"https://go.microsoft.com/fwlink/?linkid=2051486","officeSettingsPublicPreviewTermsMapping":{"de":"https://go.microsoft.com/fwlink/?linkid=2051387","en":"https://go.microsoft.com/fwlink/?linkid=2051495","es":"https://go.microsoft.com/fwlink/?linkid=2051385","fr":"https://go.microsoft.com/fwlink/?linkid=2051601","it":"https://go.microsoft.com/fwlink/?linkid=2051491","ja":"https://go.microsoft.com/fwlink/?linkid=2051494","ko":"https://go.microsoft.com/fwlink/?linkid=2051386","nl":"https://go.microsoft.com/fwlink/?linkid=2051495","pt":"https://go.microsoft.com/fwlink/?linkid=2051383","ru":"https://go.microsoft.com/fwlink/?linkid=2051492","ru-ru":"https://go.microsoft.com/fwlink/?linkid=2051492","zh-cn":"https://go.microsoft.com/fwlink/?linkid=2051600","zh-hans":"https://go.microsoft.com/fwlink/?linkid=2051600","zh-tw":"https://go.microsoft.com/fwlink/?linkid=2051496","zh-hant":"https://go.microsoft.com/fwlink/?linkid=2051496"},"authAriaToken":"88dfc7db8d9142cda2c8294e60d9ac1f-dddffdc9-f066-4291-9efb-92d1010c14f5-7662","enableDeviceCountSummaryApi":true,"exportArchUpdate":true,"enableFirstRunExperience":false,"show1903oTelNotification":false,"ocvDA":2199,"ocvOCAS":2154,"officeSettingsLearnMoreLink":"https://go.microsoft.com/fwlink/?LinkID=2010017","enableOfficeNrtDeploymentStatus":true,"snapshotOnDemand":false,"sccmInfoLink":"https://go.microsoft.com/fwlink/?linkid=2012303&clcid=0x409","showOcpsErrorReporting":true,"enableSPADrillDownUX":true,"enableLambdaUX":false,"enablePolicyExplorer":false,"enableUnAuthHomePage":true,"shellBootstrapUrl":"https://res-1.cdn.office.net/shellux/api/shellbootstrapper/business/oneshell","shellBootHost":"https://res-1.cdn.office.net","enableServiceHealthDashboard":false,"enableForceShutdownToggle":true,"enableEnterpriseShell":false,"securityAdvisorLearnMoreLink":"https://go.microsoft.com/fwlink/?linkid=2088532","lambdaStalenessDurationInHours":72,"maxDeploymentConfigurations":100,"enableDeploymentConfiguration":false,"saveConfigDebounceTime":1500,"saveConfigMetaDataDebounceTime":1000,"shouldProvisionLogAnalyticsPPEApp":false,"dayZeroLearnMoreLink":"https://go.microsoft.com/fwlink/?linkid=2099652","enableHelpAndSupportLink":true,"helpAndSupportLink":"https://go.microsoft.com/fwlink/?linkid=2097845","shouldCreateAADAppDialog":true,"enableActivationCodeForOnboarding":false,"showWAMigrationToggle":false,"privacyFooterLegalLink":"https://go.microsoft.com/fwlink/p/?LinkId=530144","privacyFooterDetailLink":"https://go.microsoft.com/fwlink/?LinkId=521839","frenchAccessibilityLink":"https://www.microsoft.com/fr-fr/accessibility/accessibility-statement","migrateArchLink":"https://go.microsoft.com/fwlink/p/?linkid=2094115","dayOneTroubleshootLink":"https://go.microsoft.com/fwlink/?linkid=2100008","standardConfigFileName":"modernupgrade,proplusmonthly_64bit,proplusmonthly_32bit,proplusmec_64bit,proplusmec_32bit,proplussac_64bit,proplussac_32bit,professionalplus2021_64bit,professionalplus2021_32bit,professionalplus2019_64bit,professionalplus2019_32bit,addvisio,addproject,addvisio2021,addvisio2019,addproject2021,addproject2019,uninstall_all","userBasedLearnMoreLink":"https://go.microsoft.com/fwlink/p/?linkid=2094112","sharedComputerLearnMoreLink":"https://go.microsoft.com/fwlink/p/?linkid=2094114","deviceBasedLearnMoreLink":"https://go.microsoft.com/fwlink/p/?linkid=2094216","enableDeviceBasedLicensing":true,"personalOfficeLoginLink":"https://www.office.com/login","standardConfigLinks":"2111466,2100351,2100627,2136864,2136863,2100625,2100626,2171573,2171574,2100546,2100628,2100547,2100629,2171575,2100630,2171440,2100631,2100548","inventoryServiceBaseUrl":"https://query.inventory.insights.office.net","notificationManagementLink":"https://go.microsoft.com/fwlink/?linkid=2104066","maxUpdateDelayForTargetVersion":15,"releaseDiscoveryBaseUrl":"https://clients.config.office.net","appHealthServiceBaseUrl":"https://health.insights.office.net","leftNavReleaseNotesLink":"https://go.microsoft.com/fwlink/?linkid=2113600&clcid=0x409","currencyServiceBaseUrl":"https://query.inventory.insights.office.net","inventoryServiceVersion":"1.1","enableFeatureConfiguration":true,"appHealthServiceVersion":"1.0.0","pavoServicesBaseUrl":"https://clients.config.office.net","enableMECChannel":true,"enableLocalhost":false,"enableOptimizedDBS":true,"skuNameChanges":true,"useLiveApplicationAcceptanceManifest":false,"serviceProfileUpdateExclusionDatesLink":"https://go.microsoft.com/fwlink/?linkid=2143800","serviceProfileUpdateDeadlineLink":"https://go.microsoft.com/fwlink/?linkid=2143564","pipelineinsufficientdiskspaceLink":"https://support.microsoft.com/office/error-code-30179-25-when-installing-office-e40d3c7d-98f6-4284-94a0-882beaa44593","invalidsignatureLink":"https://support.microsoft.com/office/error-code-30094-when-installing-office-1ae700fc-9d7d-4ccc-aebd-9294ba2e758d","invalidargumentLink":"https://support.microsoft.com/office/error-code-30029-1011-when-installing-office-889d0ca8-1418-43f7-959e-334752b4a756","httptransporterrorLink":"https://support.microsoft.com/office/error-code-0-1011-30088-1015-30183-1011-or-0-1005-when-installing-office-65aa955c-a35f-41d4-b098-8060f2d04264","streampipelineerrorLink":"https://support.microsoft.com/office/fix-office-update-errors-fc3fbdaa-e3cc-4a9f-a6d4-4eaf0441daa8","winhttpsendrequestfailedLink":"https://support.microsoft.com/office/error-code-30125-4-or-30125-1011-when-installing-office-7bfabec6-76be-4cde-880e-819a9c569612","error_invalid_dataLink":"https://docs.microsoft.com/windows/client-management/mdm/office-csp#status-code","error_timeoutLink":"https://docs.microsoft.com/windows/client-management/mdm/office-csp#status-code","error_install_userexitLink":"https://docs.microsoft.com/windows/client-management/mdm/office-csp#status-code","error_install_failureLink":"https://docs.microsoft.com/windows/client-management/mdm/office-csp#status-code","invaliddataLink":"https://support.microsoft.com/office/error-code-30033-when-installing-office-2ff458ab-0f87-46c7-99b3-c919f53395ea","unexpectederrorc2rLink":"https://support.microsoft.com/office/error-code-0-1011-30088-1015-30183-1011-or-0-1005-when-installing-office-65aa955c-a35f-41d4-b098-8060f2d04264","customResourcesUploadFontLink":"https://crfont-sf-df-wus2.westus2.cloudapp.azure.com/font/v1.0/admin/resources","serviceProfileLearnMoreLink":"https://docs.microsoft.com/DeployOffice/admincenter/servicing-profile","onboardingPavoServicesBaseUrl":"https://clients.config.office.net","appHealthServiceBaseUrlV2":"https://health.insights.office.net","adminCenterOverviewLink":"https://go.microsoft.com/fwlink/?linkid=2143996","oneDrivePavoServicesBaseUrl":"https://clients.config.office.net","actionCenterPavoServicesBaseUrl":"https://clients.config.office.net","enableContentHashing":true,"pickAADGroupLearnMoreLink":"https://go.microsoft.com/fwlink/?linkid=2150003","enableForcedSigninOnTokenError":true,"inventoryLink":"https://go.microsoft.com/fwlink/p/?linkid=2157528","servicingProfileLink":"https://go.microsoft.com/fwlink/p/?linkid=2157442","updateChannelsLearnMoreLink":"https://go.microsoft.com/fwlink/?linkid=2149711","versionDetailsLearnMoreLink":"https://go.microsoft.com/fwlink/?linkid=2149903","enableSPAVBASignatureUX":true,"enableVersionlessUX":true,"enablePolicyLiteForMem":true,"securityUpdateLink":"https://go.microsoft.com/fwlink/p/?linkid=2157529","appsHealthLink":"https://go.microsoft.com/fwlink/p/?linkid=2157527","enableLinkExpirationColumn":true,"pavoInsiderServiceBaseUrl":"https://canary.clients.config.office.net","enable2021Products":true,"enableProdReleaseOf2021Products":true,"oneDriveKnownFoldersLearnMoreLink":"https://go.microsoft.com/fwlink/?linkid=2159952","oneDriveSyncAppVersionShowReleaseNotesLink":"https://go.microsoft.com/fwlink/?linkid=2159953","enableMonthlyDeviceReqLink":"https://go.microsoft.com/fwlink/?linkid=2162077","oneDriveSyncHealthLearnMoreLink":"https://go.microsoft.com/fwlink/?linkid=2162153","enableAccessibleFeedback":true,"enableOCPSFramePagev2":false,"mecLearnMoreLink":"https://go.microsoft.com/fwlink/p/?linkid=2164189","disableSkype":true,"profileStatusDebounceTime":5000,"mecCompatibleToolsLink":"https://go.microsoft.com/fwlink/p/?linkid=2166307","powerAutomateResource":"https://service.flow.microsoft.com","msFlowSdk":"https://flow.microsoft.com/Content/msflowsdk-1.1.js","msFlowHost":"https://flow.microsoft.com","enableAppConfigApi":false,"enableMSALSSO":false,"powerAutomateServiceBaseUrl":"https://api.flow.microsoft.com","odtUrl":"https://go.microsoft.com/fwlink/p/?LinkID=626065","securityAdvisorRetirementLearnMoreLink":"https://go.microsoft.com/fwlink/p/?linkid=2174298","appHealthServiceBaseUrlV3":"https://health.prod.insights.office.net","oneDriveIssueAddToOneDriveAdminBlockedSyncLink":"https://go.microsoft.com/fwlink/?linkid=2182829","oneDriveIssueClientAccessDeniedLink":"https://go.microsoft.com/fwlink/?linkid=2182824","oneDriveIssueCloudAccessDeniedLink":"https://go.microsoft.com/fwlink/?linkid=2182719","oneDriveIssueCloudQuotaReachedLink":"https://go.microsoft.com/fwlink/?linkid=2182727","oneDriveIssueDisableSyncV2Link":"https://go.microsoft.com/fwlink/?linkid=2182725","oneDriveIssueExcludedItemLink":"https://go.microsoft.com/fwlink/?linkid=2182822","oneDriveIssueFileSizeOverLimitLink":"https://go.microsoft.com/fwlink/?linkid=2182724","oneDriveIssueFileTransferThrottledLink":"https://go.microsoft.com/fwlink/?linkid=2182821","oneDriveIssueInvalidFileNameLink":"https://go.microsoft.com/fwlink/?linkid=2182830","oneDriveIssueInvalidNameByPolicyLink":"https://go.microsoft.com/fwlink/?linkid=2182823","oneDriveIssueInvalidNameOnDependentLink":"https://go.microsoft.com/fwlink/?linkid=2182718","oneDriveIssueInvalidNameUnsupportedCharLink":"https://go.microsoft.com/fwlink/?linkid=2182720","oneDriveIssueIrmRejectedLink":"https://go.microsoft.com/fwlink/?linkid=2182717","oneDriveIssueItemCantFitInQuotaLink":"https://go.microsoft.com/fwlink/?linkid=2182716","oneDriveIssueItemCantFitOnDiskLink":"https://go.microsoft.com/fwlink/?linkid=2182820","oneDriveIssueLibraryUnsupportedModerationV2Link":"https://go.microsoft.com/fwlink/?linkid=2182831","oneDriveIssueLocalMassDeleteLink":"https://go.microsoft.com/fwlink/?linkid=2182726","oneDriveIssueLostPermissionsToMountPointLink":"https://go.microsoft.com/fwlink/?linkid=2182828","oneDriveIssueItemLimitExceededLink":"https://go.microsoft.com/fwlink/?linkid=2182722","oneDriveIssueMinorVersionLimitExceededLink":"https://go.microsoft.com/fwlink/?linkid=2182723","oneDriveIssueOfficeFileOnHoldLink":"https://go.microsoft.com/fwlink/?linkid=2182827","oneDriveIssueProtectedToOtherEnterpriseLink":"https://go.microsoft.com/fwlink/?linkid=2182909","oneDriveIssueServerFileConflictLink":"https://go.microsoft.com/fwlink/?linkid=2182825","oneDriveIssueSimilarNameItemAlreadyExistsLink":"https://go.microsoft.com/fwlink/?linkid=2182721","oneDriveIssueSyncIrmFileFailedLink":"https://go.microsoft.com/fwlink/?linkid=2182826","oneDriveIssueThrottlingLink":"https://go.microsoft.com/fwlink/?linkid=2182832","oneDriveIssueUnmappedContentPresentLink":"https://go.microsoft.com/fwlink/?linkid=2183014","enableModernSuiteProvisioning":true,"serviceProfileFilterDebounceTime":1500,"serviceRollbackBatchSize":50,"authGetConfigurationPavoUri":"/intents/v1.0/AuthDeploymentSettings/GetConfiguration","authCreateConfigurationPavoUri":"/intents/v1.0/AuthDeploymentSettings/CreateConfiguration","authUpdateConfigurationPavoUri":"/intents/v1.0/AuthDeploymentSettings/UpdateConfiguration","authDeleteConfigurationPavoUri":"/intents/v1.0/AuthDeploymentSettings/DeleteConfiguration","authShareConfigurationPavoUri":"/intents/v1.0/AuthDeploymentSettings/ShareUri","serviceCancelRollbackBatchSize":50,"serviceProfileCustomWavesLink":"https://go.microsoft.com/fwlink/?linkid=2143564","oneDriveSyncAppVersionMacAppStoreExcludedLink":"https://go.microsoft.com/fwlink/?linkid=2162153","customWavesDefaultStartDayInterval":3,"customWavesMinStartDayInterval":1,"customWavesMaxStartDayInterval":5,"centroProdBaseUrl":"https://admin.microsoft.com","learnMorePolicyManagement":"https://go.microsoft.com/fwlink/?linkid=2145207","customWavesMaxWavesInProfile":4,"serviceProfileOverviewHeaderSeeWhatIsComingSoonLink":"https://go.microsoft.com/fwlink/?linkid=2190731","oneDriveSyncHealthTroubleshootingLink":"https://go.microsoft.com/fwlink/?linkid=2192924","eudbCollectorUri":"https://eu-mobile.events.data.microsoft.com/Collector/3.0","enableEUDBLog":true,"use1CdnImgSrc":true,"uxBuildVersion":"","campaignsBuildVersion":"","use1Cdn":true,"oneCdnDomain":"res-h3.public.cdn.office.net/aacux/website/uxbuilds","localesMapping":{"de":"/de","en":"","es":"/es","fr":"/fr","it":"/it","ja":"/ja","ko":"/ko","nl":"/nl","pt":"/pt","ru":"/ru","zh":"/zh-hans","zh-cn":"/zh-hans","zh-hans":"/zh-hans","zh-tw":"/zh-hant","zh-hant":"/zh-hant"},"allowedParentFrameAuthorities":"portal.azure.com,rc.portal.azure.com,ms.portal.azure.com,df.onecloud.azure-test.net,df-m365.onecloud.azure-test.net,devicemanagement.portal.azure.com,rc-devicemanagement.portal.azure.com,canary-devicemanagement.portal.azure.com,df-devicemanagement.onecloud.azure-test.net,devicemanagement.microsoft.com,endpoint.microsoft.com,endpoint.microsoft.us,endpoint.microsoftonline.cn,intune.microsoft.com","allowedParameterForAuthority":"cm,sm,ft,mac","deviceLog":false,"allEvents":"","italianAccessibilityLink":"https://www.microsoft.com/it-it/accessibility/declarations","enableReleaseDiscoveryFileListApi":true,"usePavoWin32MigrationStatus":true,"enableOcasOnboardingApi":false,"settingsCatalogBaseUrl":"https://clients.config.office.net","multipleProfilesLearnMoreLink":"https://go.microsoft.com/fwlink/?linkid=2237124","servicingProfilesIntroYoutubeLink":"https://go.microsoft.com/fwlink/?linkid=2237683","servicingProfilesDocumentationLink":"https://go.microsoft.com/fwlink/?linkid=2238053","serviceProfileUpcomingChangesLink":"https://go.microsoft.com/fwlink/?linkid=2239113","multipleProfilesCloudUpdatesLink":"https://go.microsoft.com/fwlink/?linkid=2239113","multipleProfilesSeeReleaseInformationLink":"https://go.microsoft.com/fwlink/?linkid=2113600&clcid=0x409","mulitpleProfilesSeeWhatsComingSoonLink":"https://go.microsoft.com/fwlink/?linkid=2190731","customWaveDurationFirstWave":7,"mulitpleProfilesChangeChannelBatchSize":50,"enableSignupWaitList":false,"defaultDeadLineDays":3,"enableEEASkus":true,"enableUnauthWord":false,"consumerShellBootstrapUrl":"https://res-1.cdn.office.net/shellux/api/shellbootstrapper/consumer/oneshell","ocvOCASAppId":50291};
+        configuration.environmentName = "sukprod";
+        configuration.sid = "c58bbea8-8c6a-4593-8603-58f525616134";
+        configuration.trustedAuthority = "";
+        configuration.ariaToken = "e7a366b101ac48348bda89a5f0cde87f-3dfe89cf-d5d7-4ffc-9fc1-7f15646185e2-7226";
+        configuration.collectorUri = "";
+        configuration.isSccm = ("False" === 'True');
+        configuration.isSm = ("False" === 'True');
+        configuration.isFt = ("False" === 'True');
+        configuration.locale = "en";
+        configuration.languageTag = "en-US";
+        configuration.ocvCdnPath = "//res-h3.public.cdn.office.net/aacux/website/uxbuilds/24.0603.28827888";
+        configuration.cdnBasePath = "//res-h3.public.cdn.office.net/aacux/website/uxbuilds";
+        configuration.publicPath = "//res-h3.public.cdn.office.net/aacux/website/uxbuilds/build/";
+        configuration.dataCenterSlice = "1"; 
+        configuration.traceInfo = "SID:c58bbea8-8c6a-4593-8603-58f525616134 CID:e2e1febd-e710-4edd-ac55-d2551e71f6f3 GEO:suk IN:_Web0_1 DEP:133620935138133451 B:24.0603.28827888 D:2024-06-08 21:07:16Z";
+        configuration.pageTitle = "Office Customization Tool - Microsoft 365 Apps admin center"; //cannot encode to support French for now
+        configuration.use1CdnImgSrc = ("True" === 'True');
+        if (!(configuration.pageTitle === ""))
+        {
+            var title = document.createElement("title");
+            title.innerText = configuration.pageTitle;
+            document.head.appendChild(title);
+        }
+        var link = document.createElement("link");
+        link.setAttribute("rel", "shortcut icon");
+        link.setAttribute("type", "image/x-icon");
+        if (configuration.use1CdnImgSrc) 
+        {
+            var icoPath = configuration.ocvCdnPath + "/static/images/favicon.ico";
+            link.setAttribute("href", icoPath);
+        }
+        else
+        {
+            link.setAttribute("href", "../../static/images/favicon.ico");
+        }
+        document.head.appendChild(link);
+        publicPath = "//res-h3.public.cdn.office.net/aacux/website/uxbuilds/build/";
+    </script>
+</head>
+
+<body>
+    <div id='app'></div>
+</body>
+
+<script nonce="P4rUIQmxKo7HhYd5U3PoxMPnrkjfOhZlKIvny7hvmj4=">
+    //Add traceinfo using encoded text
+    let TraceInfoDiv = document.createElement("div");
+    TraceInfoDiv.setAttribute("id", "TraceInfoDiv");
+    TraceInfoDiv.setAttribute("style", "display:none");
+    TraceInfoDiv.innerText = configuration.traceInfo;
+    document.body.appendChild(TraceInfoDiv);
+
+    //Add inAppFeedbackRef for OCV feedback
+    let inAppFeedbackRef = document.createElement("div");
+    inAppFeedbackRef.setAttribute("id", "inAppFeedbackRef-id");
+    document.body.appendChild(inAppFeedbackRef);
+
+    //add IsSccm using encoded text
+    if (configuration.isSccm || configuration.isFt) {
+        let isSccmDiv = document.createElement("div");
+        isSccmDiv.setAttribute("id", "isSccm");
+        isSccmDiv.setAttribute("style", "display:none");
+        isSccmDiv.innerText(true);
+        doucument.body.appendChild(isSccmDiv);
+    }
+</script>
+
+<script nonce="P4rUIQmxKo7HhYd5U3PoxMPnrkjfOhZlKIvny7hvmj4=">
+    //Trusted Types support check. If not supported use Tinyfill.
+    const trustedTypesLibrary =
+        typeof window.trustedTypes !== 'undefined' &&
+            typeof window.trustedTypes.createPolicy !== 'undefined'
+            ? window.trustedTypes
+            : { createPolicy: (_name, rules) => rules };
+
+    //Trusted Types policy validating loading files from cdn
+    const cdnScriptsPolicy = trustedTypesLibrary.createPolicy('cdn-url#srv', {
+        createScriptURL(url) {
+            //obtain CDN base path from config
+            if (url.startsWith(configuration.cdnBasePath)) {
+                return url;
+            }
+            console.log('Invalid CDN URL' + url);
+        },
+    });
+
+    function loadFile(path, type) {
+        if (type == "js") {
+            var fileref = document.createElement("script")
+            fileref.setAttribute("type", "text/javascript")
+            //Trusted Types check for this js src sink function.
+            fileref.setAttribute("src", cdnScriptsPolicy.createScriptURL(path))
+        } else if (type == "css") {
+            var fileref = document.createElement("link")
+            fileref.setAttribute("rel", "stylesheet")
+            fileref.setAttribute("type", "text/css")
+            fileref.setAttribute("href", path)
+        }
+        document.getElementsByTagName("head")[0].appendChild(fileref)
+    }
+    function loadScripts(data) {
+        var basePath = configuration.cdnBasePath;
+        data["unauth"].css.forEach(function(path) {
+            loadFile(basePath + path.toLowerCase(), "css")
+        });
+
+        data["unauth"].js.forEach(function(path) {
+            loadFile(basePath + path.toLowerCase(), "js")
+        });
+    }
+
+    function loadAssets() {
+        if (window.fetch !== undefined) {
+            fetch(configuration.ocvCdnPath + '/build/webpack.assets.json', {
+                method: 'get'
+            }).then(function(response) {
+                return response.json();
+            }).then(loadScripts).catch(function(err) {
+            });
+        }
+        else {
+            // IE11 scenario
+            let xhr = new XMLHttpRequest();
+
+            xhr.overrideMimeType("application/json");
+            xhr.open('GET', configuration.ocvCdnPath + '/build/webpack.assets.json');
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState !== 4) return;
+
+                if (xhr.status === 200) {
+                    loadScripts(JSON.parse(xhr.responseText));
+                }
+            };
+
+            xhr.send();
+        }
+    }
+
+    loadAssets();
+</script>
+</html>
